@@ -8,8 +8,8 @@ Then make correct order of lexemes (to reverse polish notation) only then get an
 
 Also here are unit-testes, that make me sure, that calculator work correct, even with complex expressions.
 
-If exxpression  uncorrect you'll get a warning
+If expression  uncorrect you'll get a warning
 
 
-To start smart calculator you should dounload it, then write in terminal 'make install' and app will installed in build_calc folder.
+To start smart calculator you should dounload it, then write in terminal 'make install' and app will installed in 'build_calc' folder.
 And with command 'make open' you can open it and use.
